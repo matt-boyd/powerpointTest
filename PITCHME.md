@@ -9,7 +9,7 @@ Today we will be trying to make a presentation from Github, as demonstrated by I
 - Next we will learn how to use PITCHME.md
 - As well as the markdown required to effectively make presentations. 
 
-#HSlide 
+#HSLIDE
 
 # Special thanks to: 
 
